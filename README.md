@@ -1,4 +1,4 @@
-# ARIMA FORECASTING
+# ARIMA FORECASTING IN R
 
 Using the forecast library in R the Arima functon is used to forecast Tesla closing stock prices and percentage change, as well as the 10 year treasury rates
 ```
